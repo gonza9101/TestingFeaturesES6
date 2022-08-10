@@ -1,0 +1,20 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Repo created for testing some ES6 features",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonza9101/TestingFeaturesES6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonza9101/TestingFeaturesES6/issues"
+  },
+  "homepage": "https://github.com/gonza9101/TestingFeaturesES6#readme"
+}
