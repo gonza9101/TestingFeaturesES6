@@ -13,3 +13,16 @@ const filteredPosts = posts.filter((post) =>
 
 console.log(filteredPosts);
 
+const mappedPosts = posts.map((post) =>
+{
+    return post.title;
+});
+
+console.log(mappedPosts);
+
+const reducedPosts = posts.reduce((sum, post) =>
+{
+    return sum + post.id;
+});
+
+console.log(reducedPosts);
